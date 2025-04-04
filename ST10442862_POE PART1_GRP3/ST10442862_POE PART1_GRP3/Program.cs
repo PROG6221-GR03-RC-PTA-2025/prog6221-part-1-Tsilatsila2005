@@ -12,6 +12,7 @@ class CyberSecurityChatbot
         talk.Rate = 1;
 
         talk.Speak("Hello i'm here to provide cybersecurity tips");
+        talk.Speak("am delighted to give you an answer to your question");
         Console.Title = "Cybersecurity Awareness Assistant";
         Console.Clear();
         PlayVoiceGreeting();
