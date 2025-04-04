@@ -39,7 +39,7 @@ class CyberSecurityChatbot
 
     static void ShowHeader()
     {
-        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine(@"
   ██████╗ ██╗   ██╗██████╗ ███████╗███████╗
  ██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝
